@@ -1,0 +1,4 @@
+gene_id,id_format,annotation_source,output_file_format,output_path,output_filename
+P31946,6,5,2,.\testing\output\,anno_1
+P20806,6,5,2,.\testing\output\,anno_2
+Q17942,6,5,2,.\testing\output\,anno_3

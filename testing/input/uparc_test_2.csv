@@ -1,0 +1,10 @@
+gene_id,id_format,annotation_source,output_file_format,output_path,output_filename
+UPI000013C714,5,3,3,.\testing\output\,uparc_kegg_json
+UPI000013C714,5,3,2,.\testing\output\,uparc_kegg_tsv
+UPI000013C714,5,3,1,.\testing\output\,uparc_kegg_csv
+UPI000013C714,5,4,3,.\testing\output\,uparc_RF100_json
+UPI000013C714,5,4,2,.\testing\output\,uparc_RF100_tsv
+UPI000013C714,5,4,1,.\testing\output\,uparc_RF100_csv
+UPI000013C714,5,1,,,
+UPI000013C714,5,1,,,
+UPI000013C714,5,1,,,
