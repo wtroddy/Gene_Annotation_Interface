@@ -1,6 +1,4 @@
 # Annotation Project 
-Student: Will Roddy  
-email: wtroddy@udel.edu
 
 ## Description
 Collection of python programs that will convert gene ID's and return relevant data from other sources.
